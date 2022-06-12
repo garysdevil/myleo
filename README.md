@@ -22,3 +22,9 @@ To output the number of constraints, run:
 ```bash
 leo build -d
 ```
+
+## Layout
+- input/
+- src/ 代码目录
+- Leo.toml 
+- ouput/
