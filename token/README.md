@@ -1,4 +1,4 @@
-# token.aleo
+## token.aleo
 
 ## Build Guide
 
