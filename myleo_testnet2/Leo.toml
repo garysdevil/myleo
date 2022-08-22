@@ -1,5 +1,5 @@
 [project]
-name = "myleo"
+name = "myleo_testnet2"
 version = "0.1.0"
 description = "The myleo package"
 license = "MIT"
