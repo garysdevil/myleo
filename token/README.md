@@ -1,8 +1,12 @@
-## token.aleo
+[TOC]
+
+- 参考 https://www.entropy1729.com/leo-development-starter-pack/
 
 ## Build Guide
-
-To compile this Aleo program, run:
 ```bash
-aleo build
+leo build
+
+leo run mint_token
+
+leo run transfer_token
 ```
