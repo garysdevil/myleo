@@ -12,3 +12,15 @@ aleo build
 # aleo run 函数名 输入参数 输入参数
 aleo run hello 2u32 3u32
 ```
+
+## 测试账户
+```conf
+Private Key  APrivateKey1zkpFCE8GgNZWLQpwm3fsr5XNpPR8dHD3QsuPCMHUb7mHaVA
+    View Key  AViewKey1hU73JxupzRh7uEnynsXgUQL3neSJcJZ2dMBkCPh97zoZ
+    Address  aleo1ehzqv5492sa5n57nfjwfj3xfgdws9wakalgh3hswepwngw0huvxs4ch0wl
+
+
+Private Key  APrivateKey1zkpJdfVa4iFAZjdWM94vB3F8ERonpXqmc8M24hGv2Twg2GF
+    View Key  AViewKey1eZqsm6igutMTUbnwWw8vPQG5ceJruyYQs8XwTmNQdMJf
+    Address  aleo1ck8n80597cfhx6yq4sq40xvghkxn30qnljlqdm3z4mjcm42ajyyqjqelrn
+```
