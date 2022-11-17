@@ -1,5 +1,5 @@
-// The 'myaleo_token.aleo' program.
-program myaleo_token.aleo;
+// The 'token.aleo' program.
+program token.aleo;
 
 
 record token:

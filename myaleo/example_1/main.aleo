@@ -1,7 +1,7 @@
 import myfun.aleo; // 导入 myfun.aleo 程序进当前作用域内 // myfun.aleo 文件需要放在当前目录的imports文件夹内
 
 // 声明一个隐私智能合约程序。
-program myaleo.aleo;
+program example_1.aleo;
 
 // 定义一个函数，传入两个u32类型的参数执行减法操作 
 // 运行方式 aleo run call_sub 10u32 1u32

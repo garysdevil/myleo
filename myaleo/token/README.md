@@ -1,4 +1,4 @@
-# myaleo_token.aleo
+# token.aleo
 
 ## Build 介绍
 

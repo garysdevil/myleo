@@ -1,4 +1,4 @@
-# myaleo.aleo
+# example_1.aleo
 - 教程
     - https://www.entropy1729.com/aleo-development-starter-pack/
     - https://www.entropy1729.com/getting-started-aleo-instructions/

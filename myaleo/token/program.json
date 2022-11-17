@@ -1,5 +1,5 @@
 {
-    "program": "myaleo_token.aleo",
+    "program": "token.aleo",
     "version": "0.0.0",
     "description": "",
     "development": {
